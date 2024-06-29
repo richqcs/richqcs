@@ -11,4 +11,4 @@ richqcs/richqcs is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-I work in Gaiyao (丐要) , as we all know G-AI, 😄
+I work in GaiYyue (盖跃) , as we all know G-AI, 😄
